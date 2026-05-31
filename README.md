@@ -45,7 +45,9 @@ using the RICE framework.
 
 ## Files
 
-- [Zomato_Customer_Support_Gap_Analysis.pdf](Zomato_Customer_Support_Gap_Analysis.pdf) — Full report with findings and recommendations
+## Files
+
+- [Zomato Customer Support Gap Analysis.pdf](Zomato%20Customer%20Support%20Gap%20Analysis.pdf) — Full report with findings and recommendations
 - [Zomato_Reviews_Data.xlsx](Zomato_Reviews_Data.xlsx) — Raw data, categorisation, RICE scoring
 
 ## Tools Used
