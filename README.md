@@ -41,9 +41,10 @@ using the RICE framework.
 3. **In-App Live Chat** (RICE: 74.7) — Human agent access for serious complaints
 
 ## Files
+## Files
 
-- 'Zomato Customer Support Gap Analysis (2)'— Full report with findings and recommendations
-- 'Zomata analysis spreadsheet' — Raw data, categorisation, RICE scoring
+- [Zomato_Customer_Support_Gap_Analysis__3_.pdf](Zomato_Customer_Support_Gap_Analysis__3_.pdf) — Full report with findings
+- [Zomata_analysis_spreadsheet.xlsx](Zomata_analysis_spreadsheet.xlsx) — Raw data, categorisation, RICE scoring
 
 ## Tools Used
 
